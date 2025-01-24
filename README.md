@@ -1,0 +1,1 @@
+# lottie-move-by-effect-test
